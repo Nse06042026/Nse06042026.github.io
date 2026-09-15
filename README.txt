@@ -1,13 +1,21 @@
-NEXT STEP EDUCATION WEBSITE
+NEXT STEP EDUCATION - WEBSITE
 
 Files:
-- index.html — complete website
-- style.css — responsive design
-- script.js — mobile menu and WhatsApp enquiry form
+- index.html
+- style.css
+- script.js
+- logo.png
+- .nojekyll
 
-How to use:
-1. Upload all three website files to your web host.
-2. Open index.html as the home page.
-3. The enquiry form opens WhatsApp to 9032788662 with the submitted details.
+GitHub Pages:
+Upload these files to the root of your public repository and publish from main / (root).
 
-The college names, services, contact details and other copy are based on the supplied website content.
+Website features:
+- Responsive desktop/mobile design
+- Free counselling CTA
+- Click-to-call phone links
+- WhatsApp enquiry form and floating WhatsApp button
+- Bangalore and Chennai college sections
+- Admission process, services, FAQs and testimonials
+- Founders: C A KIRAN & P S DEEPAK
+- Tirupati office contact and Google Maps link
