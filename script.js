@@ -14,7 +14,7 @@ function submitForm(e){
  const lines=[];
  for(const [k,v] of data.entries()){if(v) lines.push(`${labels[k]||k}: ${v}`)}
  const text=`Hello Next Step Education, I need admission guidance.\n\n${lines.join('\n')}`;
- const url=`https://wa.me/919032788662?text=${encodeURIComponent(text)}`;
+ const url=`https://wa.me/919032788663?text=${encodeURIComponent(text)}`;
  msg.textContent='Opening WhatsApp with your enquiry…';
  window.open(url,'_blank','noopener');
 }
